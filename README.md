@@ -6,7 +6,7 @@ This project demonstrates a simple Express.js web application that displays "Hel
 Before running or deploying the project, ensure the following are installed on your system:
 Node.js (v16+)
 Docker Desktop (latest version)
-Ansible (if using deployment automation)
+Ansible
 
 **Steps to Build and Run**
 1. Clone the Repository
